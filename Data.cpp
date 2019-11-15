@@ -1,6 +1,8 @@
-//
-// Created by Ethan Harrison on 11/14/19.
-//
+/* Ethan Harrison
+ * CSC 112
+ * Project 8
+ * Containers
+ * */
 
 #include "Data.h"
 #include <string>

@@ -1,3 +1,9 @@
+/* Ethan Harrison
+ * CSC 112
+ * Project 8
+ * Containers
+ * */
+
 #include <iostream>
 #include <fstream>
 #include <stack>
