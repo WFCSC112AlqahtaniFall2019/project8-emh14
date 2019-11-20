@@ -24,7 +24,7 @@ bool Data::operator<(const Data &scoring) const {
 }
 
 //Overloads the comparison operators
-bool Data::operator >(const Data &scoring) const {
+bool Data::operator>(const Data &scoring) const {
     return score > scoring.score;
 }
 

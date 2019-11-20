@@ -6,8 +6,6 @@
 
 #ifndef PROJECT8_DATA_H
 #define PROJECT8_DATA_H
-
-
 #include <iostream>
 #include <string>
 using namespace std;

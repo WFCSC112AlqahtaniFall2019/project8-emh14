@@ -134,7 +134,6 @@ int main() {
         priorityQueue.pop();
     }
 
-
     //close all files
     dataFile.close();
     stackOutFile.close();
